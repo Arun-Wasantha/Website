@@ -151,7 +151,7 @@ function SongCataloguePage() {
               type="submit"
               onClick = { () => handleSearch()}  
           >
-            <i class="fa fa-search"></i>
+            Search
           </button>
         </div>
       </div>
