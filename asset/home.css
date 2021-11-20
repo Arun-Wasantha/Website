@@ -191,7 +191,6 @@ input[type="reset"] {
   margin-top: 10vh;
   padding: 2.5rem;
   padding-right: 1rem;
-
 }
 
 .heroSection__heroContent__heroText {
@@ -217,7 +216,6 @@ input[type="reset"] {
   display: flex;
   flex-direction: column;
 }
-
 
 .heroSection__heroContent__servicesSection {
   display: flex;
@@ -284,7 +282,7 @@ input[type="reset"] {
   /* border: 1px solid white ; */
   max-width: 35vw;
   padding-top: 1rem;
-  padding-bottom: 0rem;
+  padding-bottom: 1rem;
   /* min-height: 15rem; */
   padding-left: 1rem;
   padding-right: 0rem;
@@ -292,9 +290,9 @@ input[type="reset"] {
 
 .copyrightTypesSection__licenceTypesContainer__licenceCard:hover {
   transition: all 0.2s ease-out;
-  box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
   top: -4px;
-  box-shadow: 0px 12px 6px #000000;
+  background-color: var(--background-pop);
+  border-radius: 10px;
 }
 
 .copyrightTypesSection__licenceTypesContainer__licenceCard__content {
@@ -342,7 +340,7 @@ input[type="reset"] {
 }
 
 .copyrightTypesSection__licenceTypesContainer__licenceCard__content_button:hover {
-  transform: scale(1.1);
+  transform: scale(1.03);
   transition: all 0.33s ease-out;
   font-weight: bold;
 }
@@ -529,7 +527,6 @@ input[type="reset"] {
   background-color: #0f1923;
   display: flex;
   flex-direction: column;
-
 }
 
 .artistGallerySection .contentSection h1 {
@@ -567,7 +564,6 @@ input[type="reset"] {
 }
 
 .artistGallerySection .contentSection .secondary_CTA {
-
   font-weight: bold;
   font-size: 29px;
   line-height: 48px;
@@ -613,7 +609,7 @@ input[type="reset"] {
   color: #727e8b;
 }
 
-.affliateSection .contentSection  .primary_CTA {
+.affliateSection .contentSection .primary_CTA {
   font-weight: bold;
   font-size: 29px;
   line-height: 48px;
@@ -629,19 +625,17 @@ input[type="reset"] {
   padding-left: 0rem;
 }
 
-
-
 #last__card {
   display: none;
 }
 
-#Member__stat__highlight{
+#Member__stat__highlight {
   font-style: normal;
   font-weight: 600;
   font-size: 32px;
   line-height: 32px;
   color: #ed1c24;
- }
+}
 
 ::-webkit-scrollbar {
   width: 10px;
@@ -813,8 +807,7 @@ input[type="reset"] {
     margin-right: 0;
     padding: 2rem;
     margin-left: 0;
-    height: 80
-    vh;
+    height: 80 vh;
   }
 
   .heroSection__heroContent__heroText {
@@ -1070,8 +1063,6 @@ input[type="reset"] {
     line-height: 20px;
   }
 
-
-
   .copyrightViolationSection_section_stats__songbox h1 {
     font-style: normal;
     font-weight: 500;
@@ -1085,7 +1076,7 @@ input[type="reset"] {
     font-size: 24px;
     line-height: 32px;
     color: #ed1c24;
-}
+  }
   /*-------------Artist gllery Section----------------------*/
 
   .artistGallerySection {
