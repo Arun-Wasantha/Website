@@ -90,3 +90,15 @@ $("#signupform-submit-button").click(() => {
       });
   }
 });
+
+/*----------------------------------- banner signupform js --------------------------*/
+
+var checker = document.getElementById("cbxAgree");
+var sendbtn = document.getElementById("signupform-submit-button");
+checker.onchange = function() {
+  sendbtn.disabled = !this.checked;
+};
+
+window.onload = function() {
+  sendbtn.disabled = true;
+};

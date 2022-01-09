@@ -1226,12 +1226,14 @@ element.style {
   }
 }
 
+/*--------------------------- home banner div --------------------------------*/
+
 .bannerSection {
   padding: 0.5rem 0 0.5rem 0;
   width: 99%;
   margin: auto;
-  background: #f2192a;
-  color: #ffffff;
+  background: var(--Accent);
+  color: var(--Text);
   text-align: center;
 }
 

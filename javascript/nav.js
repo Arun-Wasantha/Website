@@ -60,6 +60,7 @@ $(document).ready(function () {
     $("#portfolio-item").mixItup();
 });
 
+//------------------------------ home banner js ---------------------------------------------
 function bannerCloseFunction() {
     document.getElementById("close").style.display = "none";
 }
