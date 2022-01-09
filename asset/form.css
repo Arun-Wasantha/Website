@@ -257,11 +257,3 @@ body {
 input[type="radio"] {
   margin: 8px;
 }
-
-.bannerdiv{
-  background-color: var(--background-pop);
-  color: var(--Text);
-  margin: 0% 0% 3% 0%;
-  height: 150px;
-  border-radius: 3px;
-}

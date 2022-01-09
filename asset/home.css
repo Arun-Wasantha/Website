@@ -1226,14 +1226,12 @@ element.style {
   }
 }
 
-/*--------------------------------------------------------- 15,000 banner css -------------------------------------------------------------*/
-
 .bannerSection {
   padding: 0.5rem 0 0.5rem 0;
   width: 99%;
   margin: auto;
-  background:var(--Accent);
-  color:var(--Text);
+  background: #f2192a;
+  color: #ffffff;
   text-align: center;
 }
 

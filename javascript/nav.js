@@ -60,8 +60,6 @@ $(document).ready(function () {
     $("#portfolio-item").mixItup();
 });
 
-/*--------------------------------------------------------- 15,000 banner js -------------------------------------------------------------*/
-
 function bannerCloseFunction() {
     document.getElementById("close").style.display = "none";
 }
