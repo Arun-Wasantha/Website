@@ -1225,3 +1225,24 @@ element.style {
     width: 90vw;
   }
 }
+
+.bannerSection {
+  padding: 0.5rem 0 0.5rem 0;
+  width: 99%;
+  margin: auto;
+  background: #f2192a;
+  color: #ffffff;
+  text-align: center;
+}
+
+.bannerSection span {
+  font-weight: 700;
+}
+
+.bannerdivclose {
+  cursor: pointer;
+  position: absolute;
+  right: 0%;
+  padding: 15px 25px 0px 0px;
+  transform: translate(0%, -50%);
+}

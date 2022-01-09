@@ -59,3 +59,7 @@ $(document).ready(function () {
 
     $("#portfolio-item").mixItup();
 });
+
+function bannerCloseFunction() {
+    document.getElementById("close").style.display = "none";
+}
