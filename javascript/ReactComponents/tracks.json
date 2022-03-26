@@ -95934,7 +95934,7 @@
     "Song_Name": "Danuna Mata",
     "Member1": "Indika T. Perera",
     "Member2": "",
-    "OC1": "Sarath De Alwis/ Thissa Upul Mendis Gunasekara",
+    "OC1": "Sarath De Alwis / Tissa Upul Mendis Gunasekara",
     "OC2": "Athma Liyanage",
     "OC3": "",
     "OC4": "",
@@ -95945,11 +95945,22 @@
     "Song_Name": "Deweni Mawa Numbai Mage",
     "Member1": "Indika T. Perera",
     "Member2": "",
-    "OC1": "Sarath De Alwis/ Thissa Upul Mendis Gunasekara",
-    "OC2": "Shashika Nisansala",
+    "OC1": "Sarath De Alwis",
+    "OC2": "Sashika Nisansala",
     "OC3": "",
     "OC4": "",
     "WDG_ID": "WDIG-021-09029",
+    "Presentage": "50%"
+  },
+  {
+    "Song_Name": "Ada Sanda Wage",
+    "Member1": "Indika T. Perera",
+    "Member2": "",
+    "OC1": "Anura Gunawadane",
+    "OC2": "",
+    "OC3": "",
+    "OC4": "",
+    "WDG_ID": "WDIG-021-10902",
     "Presentage": "50%"
   },
   {
